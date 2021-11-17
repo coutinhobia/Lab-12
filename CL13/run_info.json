@@ -1,0 +1,13 @@
+{
+	"n_targets": 199240,
+	"n_bootstraps": 0,
+	"n_processed": 10000,
+	"n_pseudoaligned": 5677,
+	"n_unique": 1273,
+	"p_pseudoaligned": 56.8,
+	"p_unique": 12.7,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Wed Sep  8 17:16:14 2021",
+	"call": "kallisto quant -i Homo_sapiens.GRCh38.cdna.all.index -o CL13 -t 4 --single -l 250 -s 30 SRR8668774_10K_subsample.fastq.gz"
+}
